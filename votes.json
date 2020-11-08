@@ -1,0 +1,1031 @@
+  {
+    "status": "OK",
+    "copyright": "Copyright (c) 2020 Pro Publica Inc. All Rights Reserved.",
+    "results": {
+      "chamber": "House",
+      "offset": 0,
+      "num_results": 20,
+      "votes": [
+        {
+          "congress": 116,
+          "chamber": "House",
+          "session": 2,
+          "roll_call": 218,
+          "source": "http://clerk.house.gov/evs/2020/roll218.xml",
+          "url": "http://clerk.house.gov/evs/2020/roll218.xml",
+          "vote_uri": "https://api.propublica.org/congress/v1/116/house/sessions/2/votes/218.json",
+          "bill": {
+            "bill_id": "hres1154-116",
+            "number": "H.RES.1154",
+            "sponsor_id": "M001203",
+            "api_uri": "https://api.propublica.org/congress/v1/116/bills/hres1154.json",
+            "title": "Condemning QAnon and rejecting the conspiracy theories it promotes.",
+            "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+          },
+          "amendment": {},
+          "question": "On Agreeing to the Resolution",
+          "question_text": "",
+          "description": "Condemning QAnon and rejecting the conspiracy theories it promotes",
+          "vote_type": "YEA-AND-NAY",
+          "date": "2020-10-02",
+          "time": "12:31:00",
+          "result": "Passed",
+          "democratic": {
+            "yes": 225,
+            "no": 0,
+            "present": 0,
+            "not_voting": 7,
+            "majority_position": "Yes"
+          },
+          "republican": {
+            "yes": 146,
+            "no": 17,
+            "present": 1,
+            "not_voting": 34,
+            "majority_position": "Yes"
+          },
+          "independent": {
+            "yes": 0,
+            "no": 1,
+            "present": 0,
+            "not_voting": 0
+          },
+          "total": {
+            "yes": 371,
+            "no": 18,
+            "present": 1,
+            "not_voting": 41
+          }
+        },
+        {
+          "congress": 116,
+          "chamber": "House",
+          "session": 2,
+          "roll_call": 217,
+          "source": "http://clerk.house.gov/evs/2020/roll217.xml",
+          "url": "http://clerk.house.gov/evs/2020/roll217.xml",
+          "vote_uri": "https://api.propublica.org/congress/v1/116/house/sessions/2/votes/217.json",
+          "bill": {
+            "bill_id": "hres1153-116",
+            "number": "H.RES.1153",
+            "sponsor_id": "J000298",
+            "api_uri": "https://api.propublica.org/congress/v1/116/bills/hres1153.json",
+            "title": "Condemning unwanted, unnecessary medical procedures on individuals without their full, informed consent.",
+            "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+          },
+          "amendment": {},
+          "question": "On Agreeing to the Resolution",
+          "question_text": "",
+          "description": "Condemning unwanted, unnecessary medical procedures on individuals without their full, informed consent",
+          "vote_type": "YEA-AND-NAY",
+          "date": "2020-10-02",
+          "time": "11:40:00",
+          "result": "Passed",
+          "democratic": {
+            "yes": 225,
+            "no": 0,
+            "present": 1,
+            "not_voting": 6,
+            "majority_position": "Yes"
+          },
+          "republican": {
+            "yes": 7,
+            "no": 157,
+            "present": 2,
+            "not_voting": 32,
+            "majority_position": "No"
+          },
+          "independent": {
+            "yes": 0,
+            "no": 0,
+            "present": 1,
+            "not_voting": 0
+          },
+          "total": {
+            "yes": 232,
+            "no": 157,
+            "present": 4,
+            "not_voting": 38
+          }
+        },
+        {
+          "congress": 116,
+          "chamber": "House",
+          "session": 2,
+          "roll_call": 216,
+          "source": "http://clerk.house.gov/evs/2020/roll216.xml",
+          "url": "http://clerk.house.gov/evs/2020/roll216.xml",
+          "vote_uri": "https://api.propublica.org/congress/v1/116/house/sessions/2/votes/216.json",
+          "bill": {
+            "bill_id": "hres1164-116",
+            "number": "H.RES.1164",
+            "sponsor_id": "S001205",
+            "api_uri": "https://api.propublica.org/congress/v1/116/bills/hres1164.json",
+            "title": "Providing for consideration of the resolution (H. Res. 1153) condemning unwanted, unnecessary medical procedures on individuals without their full, informed consent, and providing for consideration of the resolution (H. Res. 1154) condemning QAnon and rejecting the conspiracy theories it promotes.",
+            "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+          },
+          "amendment": {},
+          "question": "On Agreeing to the Resolution",
+          "question_text": "",
+          "description": "Providing for consideration of the resolution (H.Res. 1153) condemning unwanted, unnecessary medical procedures on individuals without their full, informed consent, and providing for consideration of the resolution (H.Res. 1154) condemning QAnon and rejecting the conspiracy theories it promotes",
+          "vote_type": "YEA-AND-NAY",
+          "date": "2020-10-01",
+          "time": "21:21:00",
+          "result": "Passed",
+          "democratic": {
+            "yes": 226,
+            "no": 1,
+            "present": 0,
+            "not_voting": 5,
+            "majority_position": "Yes"
+          },
+          "republican": {
+            "yes": 0,
+            "no": 184,
+            "present": 0,
+            "not_voting": 14,
+            "majority_position": "No"
+          },
+          "independent": {
+            "yes": 0,
+            "no": 1,
+            "present": 0,
+            "not_voting": 0
+          },
+          "total": {
+            "yes": 226,
+            "no": 186,
+            "present": 0,
+            "not_voting": 19
+          }
+        },
+        {
+          "congress": 116,
+          "chamber": "House",
+          "session": 2,
+          "roll_call": 215,
+          "source": "http://clerk.house.gov/evs/2020/roll215.xml",
+          "url": "http://clerk.house.gov/evs/2020/roll215.xml",
+          "vote_uri": "https://api.propublica.org/congress/v1/116/house/sessions/2/votes/215.json",
+          "bill": {
+            "bill_id": "hres1164-116",
+            "number": "H.RES.1164",
+            "sponsor_id": "S001205",
+            "api_uri": "https://api.propublica.org/congress/v1/116/bills/hres1164.json",
+            "title": "Providing for consideration of the resolution (H. Res. 1153) condemning unwanted, unnecessary medical procedures on individuals without their full, informed consent, and providing for consideration of the resolution (H. Res. 1154) condemning QAnon and rejecting the conspiracy theories it promotes.",
+            "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+          },
+          "amendment": {},
+          "question": "On Ordering the Previous Question",
+          "question_text": "",
+          "description": "Providing for consideration of the resolution (H.Res. 1153) condemning unwanted, unnecessary medical procedures on individuals without their full, informed consent, and providing for consideration of the resolution (H.Res. 1154) condemning QAnon and rejecting the conspiracy theories it promotes",
+          "vote_type": "YEA-AND-NAY",
+          "date": "2020-10-01",
+          "time": "20:45:00",
+          "result": "Passed",
+          "democratic": {
+            "yes": 226,
+            "no": 2,
+            "present": 0,
+            "not_voting": 4,
+            "majority_position": "Yes"
+          },
+          "republican": {
+            "yes": 0,
+            "no": 184,
+            "present": 0,
+            "not_voting": 14,
+            "majority_position": "No"
+          },
+          "independent": {
+            "yes": 0,
+            "no": 1,
+            "present": 0,
+            "not_voting": 0
+          },
+          "total": {
+            "yes": 226,
+            "no": 187,
+            "present": 0,
+            "not_voting": 18
+          }
+        },
+        {
+          "congress": 116,
+          "chamber": "House",
+          "session": 2,
+          "roll_call": 214,
+          "source": "http://clerk.house.gov/evs/2020/roll214.xml",
+          "url": "http://clerk.house.gov/evs/2020/roll214.xml",
+          "vote_uri": "https://api.propublica.org/congress/v1/116/house/sessions/2/votes/214.json",
+          "bill": {
+            "bill_id": "hr925-116",
+            "number": "H.R.925",
+            "sponsor_id": "T000460",
+            "api_uri": "https://api.propublica.org/congress/v1/116/bills/hr925.json",
+            "title": "To extend the authorization of appropriations for allocation to carry out approved wetlands conservation projects under the North American Wetlands Conservation Act through fiscal year 2024.",
+            "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+          },
+          "amendment": {},
+          "question": "On Motion to Concur in the Senate Amendments with an Amendment",
+          "question_text": "",
+          "description": "America’s Conservation Enhancement Act",
+          "vote_type": "YEA-AND-NAY",
+          "date": "2020-10-01",
+          "time": "20:02:00",
+          "result": "Passed",
+          "democratic": {
+            "yes": 214,
+            "no": 18,
+            "present": 0,
+            "not_voting": 0,
+            "majority_position": "Yes"
+          },
+          "republican": {
+            "yes": 0,
+            "no": 188,
+            "present": 0,
+            "not_voting": 10,
+            "majority_position": "No"
+          },
+          "independent": {
+            "yes": 0,
+            "no": 1,
+            "present": 0,
+            "not_voting": 0
+          },
+          "total": {
+            "yes": 214,
+            "no": 207,
+            "present": 0,
+            "not_voting": 10
+          }
+        },
+        {
+          "congress": 116,
+          "chamber": "House",
+          "session": 2,
+          "roll_call": 213,
+          "source": "http://clerk.house.gov/evs/2020/roll213.xml",
+          "url": "http://clerk.house.gov/evs/2020/roll213.xml",
+          "vote_uri": "https://api.propublica.org/congress/v1/116/house/sessions/2/votes/213.json",
+          "bill": {
+            "bill_id": "hres1161-116",
+            "number": "H.RES.1161",
+            "sponsor_id": "M000312",
+            "api_uri": "https://api.propublica.org/congress/v1/116/bills/hres1161.json",
+            "title": "Providing for consideration of the Senate amendments to the bill (H.R. 925) to extend the authorization of appropriations for allocation to carry out approved wetlands conservation projects under the North American Wetlands Conservation Act through fiscal year 2024.",
+            "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+          },
+          "amendment": {},
+          "question": "On Agreeing to the Resolution",
+          "question_text": "",
+          "description": "Providing for consideration of the Senate amendments to the bill (H.R. 925) to extend the authorization of appropriations for allocation to carry out approved wetlands conservation projects under the North American Wetlands Conservation Act through fiscal year 2024",
+          "vote_type": "YEA-AND-NAY",
+          "date": "2020-09-30",
+          "time": "18:59:00",
+          "result": "Passed",
+          "democratic": {
+            "yes": 225,
+            "no": 2,
+            "present": 0,
+            "not_voting": 5,
+            "majority_position": "Yes"
+          },
+          "republican": {
+            "yes": 0,
+            "no": 185,
+            "present": 0,
+            "not_voting": 13,
+            "majority_position": "No"
+          },
+          "independent": {
+            "yes": 0,
+            "no": 1,
+            "present": 0,
+            "not_voting": 0
+          },
+          "total": {
+            "yes": 225,
+            "no": 188,
+            "present": 0,
+            "not_voting": 18
+          }
+        },
+        {
+          "congress": 116,
+          "chamber": "House",
+          "session": 2,
+          "roll_call": 212,
+          "source": "http://clerk.house.gov/evs/2020/roll212.xml",
+          "url": "http://clerk.house.gov/evs/2020/roll212.xml",
+          "vote_uri": "https://api.propublica.org/congress/v1/116/house/sessions/2/votes/212.json",
+          "bill": {
+            "bill_id": "hres1161-116",
+            "number": "H.RES.1161",
+            "sponsor_id": "M000312",
+            "api_uri": "https://api.propublica.org/congress/v1/116/bills/hres1161.json",
+            "title": "Providing for consideration of the Senate amendments to the bill (H.R. 925) to extend the authorization of appropriations for allocation to carry out approved wetlands conservation projects under the North American Wetlands Conservation Act through fiscal year 2024.",
+            "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+          },
+          "amendment": {},
+          "question": "On Ordering the Previous Question",
+          "question_text": "",
+          "description": "Providing for consideration of the Senate amendments to the bill (H.R. 925) to extend the authorization of appropriations for allocation to carry out approved wetlands conservation projects under the North American Wetlands Conservation Act through fiscal year 2024",
+          "vote_type": "YEA-AND-NAY",
+          "date": "2020-09-30",
+          "time": "18:21:00",
+          "result": "Passed",
+          "democratic": {
+            "yes": 229,
+            "no": 0,
+            "present": 0,
+            "not_voting": 3,
+            "majority_position": "Yes"
+          },
+          "republican": {
+            "yes": 0,
+            "no": 184,
+            "present": 0,
+            "not_voting": 14,
+            "majority_position": "No"
+          },
+          "independent": {
+            "yes": 0,
+            "no": 1,
+            "present": 0,
+            "not_voting": 0
+          },
+          "total": {
+            "yes": 229,
+            "no": 185,
+            "present": 0,
+            "not_voting": 17
+          }
+        },
+        {
+          "congress": 116,
+          "chamber": "House",
+          "session": 2,
+          "roll_call": 211,
+          "source": "http://clerk.house.gov/evs/2020/roll211.xml",
+          "url": "http://clerk.house.gov/evs/2020/roll211.xml",
+          "vote_uri": "https://api.propublica.org/congress/v1/116/house/sessions/2/votes/211.json",
+          "bill": {
+            "bill_id": "hr4764-116",
+            "number": "H.R.4764",
+            "sponsor_id": "M001163",
+            "api_uri": "https://api.propublica.org/congress/v1/116/bills/hr4764.json",
+            "title": "To reauthorize the Stem Cell Therapeutic and Research Act of 2005, and for other purposes.",
+            "latest_action": "Received in the Senate."
+          },
+          "amendment": {},
+          "question": "On Motion to Suspend the Rules and Pass, as Amended",
+          "question_text": "",
+          "description": "Timely ReAuthorization of Necessary Stem-cell Programs Lends Access to Needed Therapies Act",
+          "vote_type": "2/3 YEA-AND-NAY",
+          "date": "2020-09-30",
+          "time": "16:25:00",
+          "result": "Passed",
+          "democratic": {
+            "yes": 227,
+            "no": 0,
+            "present": 0,
+            "not_voting": 5,
+            "majority_position": "Yes"
+          },
+          "republican": {
+            "yes": 186,
+            "no": 0,
+            "present": 0,
+            "not_voting": 12,
+            "majority_position": "Yes"
+          },
+          "independent": {
+            "yes": 1,
+            "no": 0,
+            "present": 0,
+            "not_voting": 0
+          },
+          "total": {
+            "yes": 414,
+            "no": 0,
+            "present": 0,
+            "not_voting": 17
+          }
+        },
+        {
+          "congress": 116,
+          "chamber": "House",
+          "session": 2,
+          "roll_call": 210,
+          "source": "http://clerk.house.gov/evs/2020/roll210.xml",
+          "url": "http://clerk.house.gov/evs/2020/roll210.xml",
+          "vote_uri": "https://api.propublica.org/congress/v1/116/house/sessions/2/votes/210.json",
+          "bill": {
+            "bill_id": "hr6270-116",
+            "number": "H.R.6270",
+            "sponsor_id": "W000825",
+            "api_uri": "https://api.propublica.org/congress/v1/116/bills/hr6270.json",
+            "title": "To amend the Securities Exchange Act of 1934 to require issuers to make certain disclosures relating to the Xinjiang Uyghur Autonomous Region, and for other purposes.",
+            "latest_action": "Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
+          },
+          "amendment": {},
+          "question": "On Passage",
+          "question_text": "",
+          "description": "Uyghur Forced Labor Disclosure Act",
+          "vote_type": "YEA-AND-NAY",
+          "date": "2020-09-30",
+          "time": "15:42:00",
+          "result": "Passed",
+          "democratic": {
+            "yes": 227,
+            "no": 0,
+            "present": 0,
+            "not_voting": 5,
+            "majority_position": "Yes"
+          },
+          "republican": {
+            "yes": 26,
+            "no": 162,
+            "present": 0,
+            "not_voting": 10,
+            "majority_position": "No"
+          },
+          "independent": {
+            "yes": 0,
+            "no": 1,
+            "present": 0,
+            "not_voting": 0
+          },
+          "total": {
+            "yes": 253,
+            "no": 163,
+            "present": 0,
+            "not_voting": 15
+          }
+        },
+        {
+          "congress": 116,
+          "chamber": "House",
+          "session": 2,
+          "roll_call": 209,
+          "source": "http://clerk.house.gov/evs/2020/roll209.xml",
+          "url": "http://clerk.house.gov/evs/2020/roll209.xml",
+          "vote_uri": "https://api.propublica.org/congress/v1/116/house/sessions/2/votes/209.json",
+          "bill": {
+            "bill_id": "hr6270-116",
+            "number": "H.R.6270",
+            "sponsor_id": "W000825",
+            "api_uri": "https://api.propublica.org/congress/v1/116/bills/hr6270.json",
+            "title": "To amend the Securities Exchange Act of 1934 to require issuers to make certain disclosures relating to the Xinjiang Uyghur Autonomous Region, and for other purposes.",
+            "latest_action": "Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
+          },
+          "amendment": {},
+          "question": "On Motion to Recommit with Instructions",
+          "question_text": "",
+          "description": "Uyghur Forced Labor Disclosure Act of 2020",
+          "vote_type": "YEA-AND-NAY",
+          "date": "2020-09-30",
+          "time": "14:56:00",
+          "result": "Failed",
+          "democratic": {
+            "yes": 0,
+            "no": 227,
+            "present": 0,
+            "not_voting": 5,
+            "majority_position": "No"
+          },
+          "republican": {
+            "yes": 184,
+            "no": 1,
+            "present": 0,
+            "not_voting": 13,
+            "majority_position": "Yes"
+          },
+          "independent": {
+            "yes": 0,
+            "no": 1,
+            "present": 0,
+            "not_voting": 0
+          },
+          "total": {
+            "yes": 184,
+            "no": 229,
+            "present": 0,
+            "not_voting": 18
+          }
+        },
+        {
+          "congress": 116,
+          "chamber": "House",
+          "session": 2,
+          "roll_call": 208,
+          "source": "http://clerk.house.gov/evs/2020/roll208.xml",
+          "url": "http://clerk.house.gov/evs/2020/roll208.xml",
+          "vote_uri": "https://api.propublica.org/congress/v1/116/house/sessions/2/votes/208.json",
+          "bill": {
+            "bill_id": "hres1155-116",
+            "number": "H.RES.1155",
+            "sponsor_id": "S001193",
+            "api_uri": "https://api.propublica.org/congress/v1/116/bills/hres1155.json",
+            "title": "Reaffirming the House of Representatives' commitment to the orderly and peaceful transfer of power called for in the Constitution of the United States, and for other purposes.",
+            "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+          },
+          "amendment": {},
+          "question": "On Motion to Suspend the Rules and Agree",
+          "question_text": "",
+          "description": "Reaffirming the House of Representatives’ commitment to the orderly and peaceful transfer of power called for in the Constitution of the United States, and for other purposes",
+          "vote_type": "YEA-AND-NAY",
+          "date": "2020-09-29",
+          "time": "20:08:00",
+          "result": "Passed",
+          "democratic": {
+            "yes": 222,
+            "no": 0,
+            "present": 0,
+            "not_voting": 10,
+            "majority_position": "Yes"
+          },
+          "republican": {
+            "yes": 174,
+            "no": 5,
+            "present": 0,
+            "not_voting": 19,
+            "majority_position": "Yes"
+          },
+          "independent": {
+            "yes": 1,
+            "no": 0,
+            "present": 0,
+            "not_voting": 0
+          },
+          "total": {
+            "yes": 397,
+            "no": 5,
+            "present": 0,
+            "not_voting": 29
+          }
+        },
+        {
+          "congress": 116,
+          "chamber": "House",
+          "session": 2,
+          "roll_call": 207,
+          "source": "http://clerk.house.gov/evs/2020/roll207.xml",
+          "url": "http://clerk.house.gov/evs/2020/roll207.xml",
+          "vote_uri": "https://api.propublica.org/congress/v1/116/house/sessions/2/votes/207.json",
+          "bill": {
+            "bill_id": "hres1148-116",
+            "number": "H.RES.1148",
+            "sponsor_id": "G000552",
+            "api_uri": "https://api.propublica.org/congress/v1/116/bills/hres1148.json",
+            "title": "Raising a question of the privileges of the House.",
+            "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+          },
+          "amendment": {},
+          "question": "On Motion to Table",
+          "question_text": "",
+          "description": "Raising a question of the privileges of the House",
+          "vote_type": "YEA-AND-NAY",
+          "date": "2020-09-29",
+          "time": "19:25:00",
+          "result": "Passed",
+          "democratic": {
+            "yes": 220,
+            "no": 0,
+            "present": 0,
+            "not_voting": 12,
+            "majority_position": "Yes"
+          },
+          "republican": {
+            "yes": 2,
+            "no": 176,
+            "present": 0,
+            "not_voting": 20,
+            "majority_position": "No"
+          },
+          "independent": {
+            "yes": 1,
+            "no": 0,
+            "present": 0,
+            "not_voting": 0
+          },
+          "total": {
+            "yes": 223,
+            "no": 176,
+            "present": 0,
+            "not_voting": 32
+          }
+        },
+        {
+          "congress": 116,
+          "chamber": "House",
+          "session": 2,
+          "roll_call": 206,
+          "source": "http://clerk.house.gov/evs/2020/roll206.xml",
+          "url": "http://clerk.house.gov/evs/2020/roll206.xml",
+          "vote_uri": "https://api.propublica.org/congress/v1/116/house/sessions/2/votes/206.json",
+          "bill": {
+            "bill_id": "hr4447-116",
+            "number": "H.R.4447",
+            "sponsor_id": "O000171",
+            "api_uri": "https://api.propublica.org/congress/v1/116/bills/hr4447.json",
+            "title": "To establish an energy storage and microgrid grant and technical assistance program.",
+            "latest_action": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources."
+          },
+          "amendment": {},
+          "question": "On Passage",
+          "question_text": "",
+          "description": "Expanding Access to Sustainable Energy Act",
+          "vote_type": "YEA-AND-NAY",
+          "date": "2020-09-24",
+          "time": "17:28:00",
+          "result": "Passed",
+          "democratic": {
+            "yes": 213,
+            "no": 18,
+            "present": 0,
+            "not_voting": 1,
+            "majority_position": "Yes"
+          },
+          "republican": {
+            "yes": 7,
+            "no": 166,
+            "present": 0,
+            "not_voting": 25,
+            "majority_position": "No"
+          },
+          "independent": {
+            "yes": 0,
+            "no": 1,
+            "present": 0,
+            "not_voting": 0
+          },
+          "total": {
+            "yes": 220,
+            "no": 185,
+            "present": 0,
+            "not_voting": 26
+          }
+        },
+        {
+          "congress": 116,
+          "chamber": "House",
+          "session": 2,
+          "roll_call": 205,
+          "source": "http://clerk.house.gov/evs/2020/roll205.xml",
+          "url": "http://clerk.house.gov/evs/2020/roll205.xml",
+          "vote_uri": "https://api.propublica.org/congress/v1/116/house/sessions/2/votes/205.json",
+          "bill": {
+            "bill_id": "hr4447-116",
+            "number": "H.R.4447",
+            "sponsor_id": "O000171",
+            "api_uri": "https://api.propublica.org/congress/v1/116/bills/hr4447.json",
+            "title": "To establish an energy storage and microgrid grant and technical assistance program.",
+            "latest_action": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources."
+          },
+          "amendment": {},
+          "question": "On Motion to Recommit with Instructions",
+          "question_text": "",
+          "description": "Expanding Access to Sustainable Energy Act",
+          "vote_type": "YEA-AND-NAY",
+          "date": "2020-09-24",
+          "time": "16:48:00",
+          "result": "Failed",
+          "democratic": {
+            "yes": 18,
+            "no": 213,
+            "present": 0,
+            "not_voting": 1,
+            "majority_position": "No"
+          },
+          "republican": {
+            "yes": 175,
+            "no": 0,
+            "present": 0,
+            "not_voting": 23,
+            "majority_position": "Yes"
+          },
+          "independent": {
+            "yes": 0,
+            "no": 1,
+            "present": 0,
+            "not_voting": 0
+          },
+          "total": {
+            "yes": 193,
+            "no": 214,
+            "present": 0,
+            "not_voting": 24
+          }
+        },
+        {
+          "congress": 116,
+          "chamber": "House",
+          "session": 2,
+          "roll_call": 204,
+          "source": "http://clerk.house.gov/evs/2020/roll204.xml",
+          "url": "http://clerk.house.gov/evs/2020/roll204.xml",
+          "vote_uri": "https://api.propublica.org/congress/v1/116/house/sessions/2/votes/204.json",
+          "bill": {
+            "bill_id": "hr4447-116",
+            "number": "H.R.4447",
+            "sponsor_id": "O000171",
+            "api_uri": "https://api.propublica.org/congress/v1/116/bills/hr4447.json",
+            "title": "To establish an energy storage and microgrid grant and technical assistance program.",
+            "latest_action": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources."
+          },
+          "amendment": {},
+          "question": "On Agreeing to the Amendment",
+          "question_text": "",
+          "description": "Levin of California Part B Amendment En Bloc No. 4",
+          "vote_type": "YEA-AND-NAY",
+          "date": "2020-09-24",
+          "time": "15:42:00",
+          "result": "Agreed to",
+          "democratic": {
+            "yes": 230,
+            "no": 0,
+            "present": 0,
+            "not_voting": 2,
+            "majority_position": "Yes"
+          },
+          "republican": {
+            "yes": 43,
+            "no": 131,
+            "present": 0,
+            "not_voting": 24,
+            "majority_position": "No"
+          },
+          "independent": {
+            "yes": 0,
+            "no": 1,
+            "present": 0,
+            "not_voting": 0
+          },
+          "total": {
+            "yes": 273,
+            "no": 132,
+            "present": 0,
+            "not_voting": 26
+          }
+        },
+        {
+          "congress": 116,
+          "chamber": "House",
+          "session": 2,
+          "roll_call": 203,
+          "source": "http://clerk.house.gov/evs/2020/roll203.xml",
+          "url": "http://clerk.house.gov/evs/2020/roll203.xml",
+          "vote_uri": "https://api.propublica.org/congress/v1/116/house/sessions/2/votes/203.json",
+          "bill": {
+            "bill_id": "hr4447-116",
+            "number": "H.R.4447",
+            "sponsor_id": "O000171",
+            "api_uri": "https://api.propublica.org/congress/v1/116/bills/hr4447.json",
+            "title": "To establish an energy storage and microgrid grant and technical assistance program.",
+            "latest_action": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources."
+          },
+          "amendment": {},
+          "question": "On Agreeing to the Amendment",
+          "question_text": "",
+          "description": "Haaland of New Mexico Part B Amendment No. 32",
+          "vote_type": "YEA-AND-NAY",
+          "date": "2020-09-24",
+          "time": "14:53:00",
+          "result": "Agreed to",
+          "democratic": {
+            "yes": 231,
+            "no": 0,
+            "present": 0,
+            "not_voting": 1,
+            "majority_position": "Yes"
+          },
+          "republican": {
+            "yes": 4,
+            "no": 172,
+            "present": 0,
+            "not_voting": 22,
+            "majority_position": "No"
+          },
+          "independent": {
+            "yes": 0,
+            "no": 1,
+            "present": 0,
+            "not_voting": 0
+          },
+          "total": {
+            "yes": 235,
+            "no": 173,
+            "present": 0,
+            "not_voting": 23
+          }
+        },
+        {
+          "congress": 116,
+          "chamber": "House",
+          "session": 2,
+          "roll_call": 202,
+          "source": "http://clerk.house.gov/evs/2020/roll202.xml",
+          "url": "http://clerk.house.gov/evs/2020/roll202.xml",
+          "vote_uri": "https://api.propublica.org/congress/v1/116/house/sessions/2/votes/202.json",
+          "bill": {
+            "bill_id": "hr4447-116",
+            "number": "H.R.4447",
+            "sponsor_id": "O000171",
+            "api_uri": "https://api.propublica.org/congress/v1/116/bills/hr4447.json",
+            "title": "To establish an energy storage and microgrid grant and technical assistance program.",
+            "latest_action": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources."
+          },
+          "amendment": {},
+          "question": "On Agreeing to the Amendment",
+          "question_text": "",
+          "description": "Stevens of Michigan Part B Amendment En Bloc. No. 1",
+          "vote_type": "YEA-AND-NAY",
+          "date": "2020-09-24",
+          "time": "14:05:00",
+          "result": "Agreed to",
+          "democratic": {
+            "yes": 230,
+            "no": 1,
+            "present": 0,
+            "not_voting": 1,
+            "majority_position": "Yes"
+          },
+          "republican": {
+            "yes": 5,
+            "no": 170,
+            "present": 0,
+            "not_voting": 23,
+            "majority_position": "No"
+          },
+          "independent": {
+            "yes": 0,
+            "no": 1,
+            "present": 0,
+            "not_voting": 0
+          },
+          "total": {
+            "yes": 235,
+            "no": 172,
+            "present": 0,
+            "not_voting": 24
+          }
+        },
+        {
+          "congress": 116,
+          "chamber": "House",
+          "session": 2,
+          "roll_call": 201,
+          "source": "http://clerk.house.gov/evs/2020/roll201.xml",
+          "url": "http://clerk.house.gov/evs/2020/roll201.xml",
+          "vote_uri": "https://api.propublica.org/congress/v1/116/house/sessions/2/votes/201.json",
+          "bill": {
+            "bill_id": "hr451-116",
+            "number": "H.R.451",
+            "sponsor_id": "E000179",
+            "api_uri": "https://api.propublica.org/congress/v1/116/bills/hr451.json",
+            "title": "To repeal the section of the Middle Class Tax Relief and Job Creation Act of 2012 that requires the Federal Communications Commission to reallocate and auction the T-Band spectrum.",
+            "latest_action": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation."
+          },
+          "amendment": {},
+          "question": "On Motion to Suspend the Rules and Pass, as Amended",
+          "question_text": "",
+          "description": "Don’t Break Up the T-Band Act of 2020",
+          "vote_type": "2/3 YEA-AND-NAY",
+          "date": "2020-09-23",
+          "time": "16:26:00",
+          "result": "Passed",
+          "democratic": {
+            "yes": 230,
+            "no": 0,
+            "present": 0,
+            "not_voting": 2,
+            "majority_position": "Yes"
+          },
+          "republican": {
+            "yes": 180,
+            "no": 4,
+            "present": 0,
+            "not_voting": 14,
+            "majority_position": "Yes"
+          },
+          "independent": {
+            "yes": 0,
+            "no": 1,
+            "present": 0,
+            "not_voting": 0
+          },
+          "total": {
+            "yes": 410,
+            "no": 5,
+            "present": 0,
+            "not_voting": 16
+          }
+        },
+        {
+          "congress": 116,
+          "chamber": "House",
+          "session": 2,
+          "roll_call": 200,
+          "source": "http://clerk.house.gov/evs/2020/roll200.xml",
+          "url": "http://clerk.house.gov/evs/2020/roll200.xml",
+          "vote_uri": "https://api.propublica.org/congress/v1/116/house/sessions/2/votes/200.json",
+          "bill": {
+            "bill_id": "hres1129-116",
+            "number": "H.RES.1129",
+            "sponsor_id": "M000312",
+            "api_uri": "https://api.propublica.org/congress/v1/116/bills/hres1129.json",
+            "title": "Providing for consideration of the bill (H.R. 4447) to establish an energy storage and microgrid grant and technical assistance program; providing for consideration of the bill (H.R. 6270) to amend the Securities Exchange Act of 1934 to require issuers to make certain disclosures relating to the Xinjiang Uyghur Autonomous Region, and for other purposes; and providing for consideration of the bill (H.R. 8319) making continuing appropriations for fiscal year 2021, and for other purposes.",
+            "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+          },
+          "amendment": {},
+          "question": "On Agreeing to the Resolution",
+          "question_text": "",
+          "description": "Providing for consideration of the Expanding Access to Sustainable Energy Act (H.R. 4447); providing for consideration of the Uyghur Forced Labor Disclosure Act (H.R. 6270); and providing for consideration of the Continuing Appropriations Act, 2021 and Other Extensions Act (H.R. 8319)",
+          "vote_type": "YEA-AND-NAY",
+          "date": "2020-09-23",
+          "time": "15:46:00",
+          "result": "Passed",
+          "democratic": {
+            "yes": 229,
+            "no": 0,
+            "present": 0,
+            "not_voting": 3,
+            "majority_position": "Yes"
+          },
+          "republican": {
+            "yes": 0,
+            "no": 186,
+            "present": 0,
+            "not_voting": 12,
+            "majority_position": "No"
+          },
+          "independent": {
+            "yes": 0,
+            "no": 1,
+            "present": 0,
+            "not_voting": 0
+          },
+          "total": {
+            "yes": 229,
+            "no": 187,
+            "present": 0,
+            "not_voting": 15
+          }
+        },
+        {
+          "congress": 116,
+          "chamber": "House",
+          "session": 2,
+          "roll_call": 199,
+          "source": "http://clerk.house.gov/evs/2020/roll199.xml",
+          "url": "http://clerk.house.gov/evs/2020/roll199.xml",
+          "vote_uri": "https://api.propublica.org/congress/v1/116/house/sessions/2/votes/199.json",
+          "bill": {
+            "bill_id": "hres1129-116",
+            "number": "H.RES.1129",
+            "sponsor_id": "M000312",
+            "api_uri": "https://api.propublica.org/congress/v1/116/bills/hres1129.json",
+            "title": "Providing for consideration of the bill (H.R. 4447) to establish an energy storage and microgrid grant and technical assistance program; providing for consideration of the bill (H.R. 6270) to amend the Securities Exchange Act of 1934 to require issuers to make certain disclosures relating to the Xinjiang Uyghur Autonomous Region, and for other purposes; and providing for consideration of the bill (H.R. 8319) making continuing appropriations for fiscal year 2021, and for other purposes.",
+            "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+          },
+          "amendment": {},
+          "question": "On Ordering the Previous Question",
+          "question_text": "",
+          "description": "Providing for consideration of the Expanding Access to Sustainable Energy Act (H.R. 4447); providing for consideration of the Uyghur Forced Labor Disclosure Act (H.R. 6270); and providing for consideration of the Continuing Appropriations Act, 2021 and Other Extensions Act (H.R. 8319)",
+          "vote_type": "YEA-AND-NAY",
+          "date": "2020-09-23",
+          "time": "15:00:00",
+          "result": "Passed",
+          "democratic": {
+            "yes": 231,
+            "no": 0,
+            "present": 0,
+            "not_voting": 1,
+            "majority_position": "Yes"
+          },
+          "republican": {
+            "yes": 0,
+            "no": 189,
+            "present": 0,
+            "not_voting": 9,
+            "majority_position": "No"
+          },
+          "independent": {
+            "yes": 0,
+            "no": 1,
+            "present": 0,
+            "not_voting": 0
+          },
+          "total": {
+            "yes": 231,
+            "no": 190,
+            "present": 0,
+            "not_voting": 10
+          }
+        }
+      ]
+    }
+  }

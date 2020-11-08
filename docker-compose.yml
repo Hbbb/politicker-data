@@ -1,0 +1,17 @@
+version: "2.4"
+volumes:
+    politicker-db:
+
+services:
+  politicker-db:
+      image: postgres:12.4
+      volumes:
+        - politicker-db:/var/lib/postgresql/data
+        - ./politicker-import/docker-entrypoint-initdb.d:/docker-entrypoint-initdb.d
+        - ./healthcheck_postgres.sh:/usr/local/bin/healthcheck_postgres.sh
+      healthcheck:
+        test: ["CMD", "healthcheck_postgres.sh"]
+      environment:
+        POSTGRES_PASSWORD: postgres
+      ports:
+        - "5432:5432"
