@@ -22,6 +22,7 @@ Data
 
 User Experience
 * Reddit-style layout of links with the description of the bills; link to the page on congress.gov
+* Maybe up and down votes?
 
 ## Misc
 
