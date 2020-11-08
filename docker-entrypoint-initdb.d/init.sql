@@ -1,4 +1,7 @@
--- CREATE DATABASE politicker;
+-- Workaround for CREATE IF NOT EXISTS
+-- https://stackoverflow.com/questions/18389124/simulate-create-database-if-not-exists-for-postgresql
+SELECT 'CREATE DATABASE politicker'
+WHERE NOT EXISTS (SELECT FROM pg_database WHERE datname = 'politicker')\gexec
 
 CREATE TABLE IF NOT EXISTS senate_members (
     id SERIAL,
