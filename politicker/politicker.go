@@ -26,10 +26,6 @@ func (app *appEnv) run() error {
 
 // TODO: This needs to take an interface so we can handle different response types
 func (app *appEnv) saveResponse(r Response) error {
-	if app.persist != true {
-		return nil
-	}
-
 	err := app.db.Ping(context.Background())
 	if err != nil {
 		return err
@@ -51,7 +47,7 @@ func CLI(args []string) int {
 	var app appEnv
 	err := app.fromArgs(args)
 	if err != nil {
-		fmt.Println(err)
+		fmt.Fprintf(os.Stderr, "Startup error: %e\n", err)
 		return 2
 	}
 
