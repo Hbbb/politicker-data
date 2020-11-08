@@ -13,6 +13,7 @@ type appEnv struct {
 	resource string // members, bills, votes
 	chamber  string // house/senate
 	persist  bool
+	print    bool
 	db       *pgx.Conn
 	timeout  time.Duration
 }
@@ -22,6 +23,7 @@ func (app *appEnv) fromArgs(args []string) error {
 	fl.StringVar(&app.resource, "resource", "", "Resource type to fetch (members, bills, votes)")
 	fl.StringVar(&app.resource, "chamber", "", "Either Senate or House, required when fetching members")
 	fl.DurationVar(&app.timeout, "timeout", 30*time.Second, "Import timeout")
+	fl.BoolVar(&app.print, "print", false, "Print results to stdout")
 
 	persist := fl.Bool(
 		"persist", true,
