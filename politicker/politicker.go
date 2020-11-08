@@ -7,20 +7,25 @@ import (
 )
 
 func (app *appEnv) run() error {
-	var response Response
-	err := app.fetchJSON("https://api.propublica.org/congress/v1/116/senate/members.json", &response)
+	var r Response
+	err := app.fetchJSON("https://api.propublica.org/congress/v1/116/senate/members.json", &r)
 	if err != nil {
 		return err
 	}
 
-	for _, member := range response.Results[0].Members {
-		fmt.Println(member)
+	if app.print {
+		app.printResponse(r)
+	}
+
+	if app.persist {
+		app.saveResponse(r)
 	}
 
 	return nil
 }
 
-func (app *appEnv) saveJSON() error {
+// TODO: This needs to take an interface so we can handle different response types
+func (app *appEnv) saveResponse(r Response) error {
 	if app.persist != true {
 		return nil
 	}
@@ -30,7 +35,15 @@ func (app *appEnv) saveJSON() error {
 		return err
 	}
 
+	// TODO: Save the response
+
 	return nil
+}
+
+func (app *appEnv) printResponse(r Response) {
+	for _, member := range r.Results[0].Members {
+		fmt.Println(member)
+	}
 }
 
 // CLI exposes the CLI interface to the app
